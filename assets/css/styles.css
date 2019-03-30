@@ -1,0 +1,34 @@
+html {
+    background: url(../images/wallpaper.wiki-Wallpaper-images-photos-pictures-space-static-PIC-WPB0010189.jpg) no-repeat center center fixed; 
+}
+
+body {
+    padding: 50px;
+}
+
+h2 {
+    font-family: 'Fontdiner Swanky', cursive;
+    font-weight: 700;
+    font-size: 70px;
+    background: -webkit-linear-gradient(orange, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.content {
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px 6px darkblue;
+    width: 80%
+}
+
+.text {
+    font-family: 'Fontdiner Swanky', cursive;
+}
